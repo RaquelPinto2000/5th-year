@@ -1,0 +1,68 @@
+task, ts, action, value
+Sensor Task, 989290133671, activation
+Sensor Task,989290547598, write to queue, 1
+Sensor Task, 989290589948, back to sleep
+Processing Task, 989290723149, received value, 1
+Processing Task, 989290740385, write to result queue, 0
+Storage Task, 989290852164, received value, 0
+Storage Task, 989290868118, write to file, 0
+Sensor Task, 989389688848, activation
+Sensor Task,989389702444, write to queue, 2
+Sensor Task, 989389736552, back to sleep
+Processing Task, 989389918227, received value, 2
+Processing Task, 989389944946, write to result queue, 0
+Storage Task, 989390088431, received value, 0
+Storage Task, 989390094399, write to file, 0
+Sensor Task, 989489637871, activation
+Sensor Task,989489657395, write to queue, 3
+Sensor Task, 989489705600, back to sleep
+Processing Task, 989489904433, received value, 3
+Processing Task, 989489940530, write to result queue, 1
+Storage Task, 989490176141, received value, 1
+Storage Task, 989490184967, write to file, 1
+Sensor Task, 989591266661, activation
+Sensor Task,989591284608, write to queue, 4
+Sensor Task, 989591327854, back to sleep
+Processing Task, 989591477210, received value, 4
+Processing Task, 989591517709, write to result queue, 2
+Storage Task, 989591651590, received value, 2
+Storage Task, 989591661310, write to file, 2
+Sensor Task, 989690401408, activation
+Sensor Task,989690409885, write to queue, 5
+Sensor Task, 989690455134, back to sleep
+Processing Task, 989690522650, received value, 5
+Processing Task, 989690533827, write to result queue, 3
+Storage Task, 989690623354, received value, 3
+Storage Task, 989690626627, write to file, 3
+Sensor Task, 989789584530, activation
+Sensor Task,989789592318, write to queue, 6
+Sensor Task, 989789611288, back to sleep
+Processing Task, 989789688273, received value, 6
+Processing Task, 989789699601, write to result queue, 4
+Storage Task, 989789801475, received value, 4
+Storage Task, 989789805100, write to file, 4
+Sensor Task, 989889909958, activation
+Sensor Task,989889917930, write to queue, 7
+Sensor Task, 989889935800, back to sleep
+Processing Task, 989890027910, received value, 7
+Processing Task, 989890040061, write to result queue, 5
+Storage Task, 989890125567, received value, 5
+Storage Task, 989890128380, write to file, 5
+Sensor Task, 989989615599, activation
+Sensor Task,989989671882, write to queue, 8
+Sensor Task, 989989722067, back to sleep
+Processing Task, 989989962328, received value, 8
+Processing Task, 989990002471, write to result queue, 6
+Storage Task, 989990234475, received value, 6
+Storage Task, 989990244487, write to file, 6
+Sensor Task, 990090161878, activation
+Sensor Task,990090181753, write to queue, 9
+Sensor Task, 990090233001, back to sleep
+Processing Task, 990090485838, received value, 9
+Processing Task, 990090527559, write to result queue, 7
+Storage Task, 990090745491, received value, 7
+Storage Task, 990090754998, write to file, 7
+Sensor Task, 990190246450, activation
+Sensor Task, 990190465565, done
+Processing Task, 990590661693, received value, 9
+Storage Task, 990590990774, received value, 7
