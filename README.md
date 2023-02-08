@@ -10,4 +10,4 @@
 #### SOTR:  Developed with [João Martins](https://github.com/jfngsea) in 2022/2023
 * [Project](https://github.com/RaquelPinto2000/5th-year/tree/main/SOTR/Pratica/Projeto) - Implementation and experimental verification of a Cyclic
 Asynchronous Buffer (CAB) real-time communication mechanism 
-    - Use Zephyr
+    - Use Zephyr and C
