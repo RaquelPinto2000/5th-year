@@ -12,7 +12,8 @@
 Asynchronous Buffer (CAB) real-time communication mechanism 
     - Use Zephyr and C
 
-
+#### GMCD:  Developed in 2022/2023
+* [Project](https://github.com/RaquelPinto2000/5th-year/tree/main/GMCD/trabalho) - Internet of Things (IoT) no marketing digital
 
 ## Curricular Intership Report: Development of a Scalable and Flexible Vision System for Industrial Applications
 
