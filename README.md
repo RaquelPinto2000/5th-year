@@ -11,3 +11,9 @@
 * [Project](https://github.com/RaquelPinto2000/5th-year/tree/main/SOTR/Pratica/Projeto) - Implementation and experimental verification of a Cyclic
 Asynchronous Buffer (CAB) real-time communication mechanism 
     - Use Zephyr and C
+
+
+
+## TESE - Curricular Intership Report: Development of a Scalable and Flexible Vision System for Industrial Applications
+
+* [Grade] - 18/20 - Report of the curricular internship conducted at Selmatron (Bresimar Group)
