@@ -17,4 +17,4 @@ Asynchronous Buffer (CAB) real-time communication mechanism
 
 ## Curricular Intership Report: Development of a Scalable and Flexible Vision System for Industrial Applications
 
-* [Grade] - 18/20 - Report of the curricular internship conducted at Selmatron (Bresimar Group)
+* Grade: 18/20 - Report of the curricular internship conducted at Selmatron (Bresimar Group)
